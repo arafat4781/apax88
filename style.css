@@ -1,0 +1,94 @@
+.topmenu1{
+    display: flex;
+   
+}
+
+.top1{
+    margin-left: 60%;
+    padding:0.5%;
+    
+}
+
+.top1 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* topmenu1 end*/ 
+
+.banar1{
+   position: relative;
+    background-image: url('.//banar1/banar12.jpeg');
+    height: 300px;
+
+}
+
+
+
+
+.logo{
+   
+    height: 50px;
+    margin-top:0.5% ;
+    margin-left: 9%;
+}
+
+.menu{
+    position: absolute;
+    display: flex;
+    margin-left: 18%;
+    top: 6%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    font-size: 20px;
+}
+
+.icon{
+    position: absolute;
+    color: white;
+    right: 10%;
+    top: 6%;
+}
+
+.icon i{
+    padding: 15px;
+}
+
+
+.text1{
+    position: absolute;
+    color: white;
+    left: 35%;
+    text-align: center;
+}
+
+.text1 h1{
+    line-height: 1px;
+}
+
+.botton{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    animation-name: btn1;
+    animation-duration: 4s;
+}
+
+.botton .btn1{
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid white;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+   
+}
+
+
+
